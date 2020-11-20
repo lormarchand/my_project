@@ -9,7 +9,7 @@ navbar:
       href: my_research.html
     - text: "About me"
       icon: fa-search 
-      href: about_me.html
+      href: idex.html
     - text: "Publications/Talks"
       icon: fa-book-open
       href: publication.html
