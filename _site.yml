@@ -6,7 +6,7 @@ navbar:
   left:
     - text: "current research"
       icon: fa-leaf
-      href: index.html
+      href: my_research.html
     - text: "About me"
       icon: fa-search 
       href: about_me.html
