@@ -1,0 +1,27 @@
+name: "my_website"                                 
+output_dir: "."
+navbar:
+  title: "Lorène Julia Marchand"                             
+  type: inverse
+  href: index.html
+  left:
+    - text: "current research"
+      icon: fa-leaf
+      href: research.html
+    - text: "About me"
+      icon: fa-search 
+      href: about.html
+    - text: "Publications/Talks"
+      icon: fa-book-open
+      href: publication.html
+  right:
+    - text: "Contact me"
+      icon: fa-envelope
+      href: mailto:lorene.marchand@univ-rennes1.fr
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/lormarchand
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
