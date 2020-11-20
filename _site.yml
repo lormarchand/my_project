@@ -1,5 +1,5 @@
 name: "my_website"                                 
-output_dir: "."
+output_dir: ".nojekyll"
 navbar:
   title: "Lorène Julia Marchand"                             
   type: inverse
