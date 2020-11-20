@@ -3,7 +3,6 @@ output_dir: "."
 navbar:
   title: "Lorène Julia Marchand"                             
   type: inverse
-  href: index.html
   left:
     - text: "current research"
       icon: fa-leaf
