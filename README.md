@@ -1,1 +1,1 @@
-github.io/my_project/
+https://lormarchand.github.io/my_project/
