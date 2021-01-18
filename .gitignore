@@ -1,7 +1,12 @@
 .Rhistory
 about_me.Rmd
 my_project.Rproj
-my_research.Rmd
+curent_research.Rmd
 publication.Rmd
+index.Rmd
+other_experiences.Rmd
+previous_research.Rmd
+talk.Rmd
+teaching.Rmd
 .Rproj.user
 index_site.yml
