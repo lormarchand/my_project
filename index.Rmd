@@ -1,0 +1,25 @@
+
+
+#
+<img align="right" width="200" height="200" src="C:\Users\loren\Documents\R\my_project\Image0.jpg">
+
+##
+##
+## __3rd year PhD student at ECOBIO__
+#
+#
+
+[Ecosystèmes, Biodiversité, Evolution](https://ecobio.univ-rennes1.fr/) ECOBIO UMR CNRS Université de Rennes 1
+
+#
+#  
+## _Studing plants adaptive to climate change in harsh environements_
+#
+#
+I mainly work with long lived plant species from temperate and Sub-Antarctic ecosystems. i'm working form molecular, to population level. I'm interested in  plant growth, anatomy, microbiome, genes expression and metabolome. 
+
+#
+#
+#
+
+ ![](C:/Users/loren/Documents/R/my_project/Image3.png)
